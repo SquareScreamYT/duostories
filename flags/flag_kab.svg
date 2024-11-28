@@ -1,30 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg3624" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 id="svg3624" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="82px" height="65.9px"
 	 viewBox="0 0 82 65.9" style="enable-background:new 0 0 82 65.9;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFC800;stroke:#FFFFFF;stroke-width:4;}
+	.st0{fill:#FFD300;stroke:#FFFFFF;stroke-width:4;}
 	.st1{fill:#1CB0F6;}
 	.st2{fill:none;stroke:#FF4B4B;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st3{fill:none;stroke:#FFC800;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st4{fill:none;stroke:#1CB0F6;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FFD300;stroke-width:2.6452;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD300;}
+	.st7{fill:none;stroke:#1CB0F6;stroke-width:2.6452;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#1CB0F6;}
+	.st9{fill:none;stroke:#1CB0F6;stroke-width:2.6452;stroke-linecap:round;stroke-linejoin:bevel;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview3628" inkscape:current-layer="svg3626" inkscape:cx="232.28458" inkscape:cy="1646.1446" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="699" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1.4142136" pagecolor="#ffffff" showgrid="false">
 	</sodipodi:namedview>
 <g id="ru">
 	<g id="g2884" transform="translate(6.000000, 6.000000)">
-		<path id="path2878" class="st0" d="M56.4-3H11.6C6.6-3,4.9-2.4,3.1-1.5c-2,1-3.5,2.6-4.5,4.5C-2.4,4.9-3,6.6-3,11.6v28.9
+		<path id="path2878" class="st0" d="M56.4-3H11.6c-5,0-6.7,0.6-8.5,1.5c-2,1-3.5,2.6-4.5,4.5S-3,6.6-3,11.6v28.9
 			c0,4.9,0.6,6.7,1.5,8.5c1,2,2.6,3.5,4.5,4.5c1.8,1,3.6,1.5,8.5,1.5h44.9c4.9,0,6.7-0.6,8.5-1.5c2-1,3.5-2.6,4.5-4.5
 			c1-1.8,1.5-3.6,1.5-8.5V11.6c0-4.9-0.6-6.7-1.5-8.5c-1-2-2.6-3.5-4.5-4.5C63.1-2.4,61.4-3,56.4-3z"/>
 		<path id="path2882" class="st1" d="M-1,40.4V11.6c0-4.4,0.5-6,1.3-7.5C1.2,2.4,2.4,1.2,4,0.3S7.2-1,11.6-1H34v54H11.6
 			c-4.4,0-6-0.5-7.5-1.3c-1.6-0.9-2.9-2.1-3.7-3.7C-0.5,46.4-1,44.8-1,40.4z"/>
 	</g>
 </g>
-<path class="st2" d="M28,20.8L28,20.8c6.6,6.5,17.4,6.5,24,0l0,0"/>
-<path class="st2" d="M28,38.4L28,38.4c6.6-6.5,17.4-6.5,24,0l0,0"/>
-<line class="st2" x1="40" y1="17.9" x2="40" y2="39.9"/>
-<path class="st3" d="M40,47.9L40,47.9c-9.8,0-18.8-5.5-23.2-14.3L16,31.9"/>
-<path class="st4" d="M64,31.9l-0.8,1.7C58.8,42.3,49.8,47.9,40,47.9h1"/>
+<path class="st2" d="M30,19.9L30,19.9c5.5,5.9,14.5,5.9,20,0l0,0"/>
+<path class="st2" d="M30,35.9L30,35.9c5.5-5.9,14.5-5.9,20,0l0,0"/>
+<line class="st2" x1="40" y1="17.3" x2="40" y2="37.3"/>
+<path class="st3" d="M32.8,128.2L32.8,128.2c-9.8,0-18.8-5.5-23.2-14.3l-0.8-1.7"/>
+<path class="st4" d="M56.8,112.2l-0.8,1.7c-4.4,8.7-13.4,14.3-23.2,14.3h1"/>
+<g id="g3511" transform="translate(19.000000, 15.000000)">
+	<g id="g3509" transform="translate(0.806452, 0.096774)">
+		<g id="Group-5">
+			<g id="g3486">
+				<g id="g3484">
+					<g id="g3482">
+						<path id="path3470" class="st5" d="M2.6,25.3c0.6,0.9,1.2,1.7,2,2.5c0.9,0.9,2,1.7,3.1,2.4"/>
+						<path id="path3472" class="st6" d="M0.7,20.1l-0.4-0.4c-2.3-2.7-1.9-6.8,0.8-9.1l0.4-0.4l0,0l0.4,0.4c2.3,2.7,1.9,6.8-0.8,9.1
+							L0.7,20.1L0.7,20.1z"/>
+						<path id="path3474" class="st6" d="M3.4,27.5l-0.8,0.1c-3.5,0.4-6.7-2.2-7.1-5.7l-0.1-0.8l0,0l0.8-0.1
+							c3.5-0.4,6.7,2.2,7.1,5.7L3.4,27.5L3.4,27.5z"/>
+						<path id="path3476" class="st6" d="M16.7,34.1l-0.5,0.6c-2.4,2.6-6.5,2.9-9.1,0.5l-0.6-0.5l0,0L7,34.1
+							c2.4-2.6,6.5-2.9,9.1-0.5L16.7,34.1L16.7,34.1z"/>
+						<path id="path3478" class="st6" d="M17.6,33.5l0-0.8c-0.1-3.6-3.1-6.3-6.7-6.2l-0.8,0l0,0l0,0.8c0.1,3.6,3.1,6.3,6.7,6.2
+							L17.6,33.5L17.6,33.5z"/>
+						<path id="path3480" class="st6" d="M4,28.7l-0.5-0.6c-2.1-2.8-1.6-6.9,1.3-9l0.6-0.5l0,0l0.5,0.6c2.1,2.8,1.6,6.9-1.3,9
+							L4,28.7L4,28.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<line class="st5" x1="40" y1="48.4" x2="36" y2="48.4"/>
+<g id="g3511_00000163065885801591416800000004631514447893527460_" transform="translate(19.000000, 15.000000)">
+	<g id="g3509_00000057113573527281308400000015160165714985609632_" transform="translate(0.806452, 0.096774)">
+		<g id="Group-5_00000164505379842198347040000003655092429537456259_">
+			<g id="g3486_00000107585430182672384410000014680243269966723724_">
+				<g id="g3484_00000023269141209652329360000003751787813867581862_">
+					<g id="g3482_00000094591389066252256720000014501499956326102147_">
+						<path id="path3470_00000106844257385045753770000007093715419673280698_" class="st7" d="M32.6,30.2c1.1-0.6,2.2-1.4,3.1-2.4
+							c0.8-0.8,1.4-1.6,2-2.5"/>
+						<path id="path3472_00000137133191883695660760000018219124349751463829_" class="st8" d="M39.7,20.1l-0.4-0.4
+							c-2.7-2.3-3.1-6.4-0.8-9.1l0.4-0.4l0,0l0.4,0.4c2.7,2.3,3.1,6.4,0.8,9.1L39.7,20.1L39.7,20.1z"/>
+						<path id="path3474_00000165210186445262956420000007415236428114319232_" class="st8" d="M37,27.5l0.1-0.8
+							c0.4-3.5,3.5-6.1,7.1-5.7l0.8,0.1l0,0l-0.1,0.8c-0.4,3.5-3.5,6.1-7.1,5.7L37,27.5L37,27.5z"/>
+						<path id="path3476_00000164491201819329053970000016274380968566826163_" class="st8" d="M23.7,34.1l0.6-0.5
+							c2.6-2.4,6.7-2.2,9.1,0.5l0.5,0.6l0,0l-0.6,0.5c-2.6,2.4-6.7,2.2-9.1-0.5L23.7,34.1L23.7,34.1z"/>
+						<path id="path3478_00000072242076770272389900000014463549305967717051_" class="st8" d="M22.8,33.5l0.8,0
+							c3.6,0.1,6.5-2.7,6.7-6.2l0-0.8l0,0l-0.8,0c-3.6-0.1-6.5,2.7-6.7,6.2L22.8,33.5L22.8,33.5z"/>
+						<path id="path3480_00000091014603205058062250000011938908945895323048_" class="st8" d="M36.4,28.7l-0.6-0.5
+							c-2.8-2.1-3.4-6.2-1.3-9l0.5-0.6l0,0l0.6,0.5c2.8,2.1,3.4,6.2,1.3,9L36.4,28.7L36.4,28.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<polyline class="st9" points="42,48.4 40,48.4 44,48.4 "/>
+<line class="st5" x1="24" y1="47.9" x2="24" y2="47.9"/>
+<line class="st5" x1="16" y1="33.9" x2="16" y2="33.9"/>
+<line class="st9" x1="64" y1="33.9" x2="64" y2="33.9"/>
+<line class="st9" x1="56" y1="47.9" x2="56" y2="47.9"/>
 </svg>
